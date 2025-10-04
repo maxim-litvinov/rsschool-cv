@@ -1,38 +1,46 @@
-# 📄 Резюме  
+# 📄 Resume
 
-## 👤 Полное имя  
-Litvinov Maxim  
+## 👤 Full Name
 
-Мужчина, 27 лет, родился **17 апреля 1998**  
+Litvinov Maxim
 
-## Контактная информация  
-- **Телефон:** +7 (911) 676-09-37  
-- **Email:** maxlitv7711@gmail.com *(предпочтительный способ связи)*  
+Male, 27 years old, born April **17, 1998**
 
-## Опыт работы (1 год 1 месяц)  
+## Contact Information
 
-**АО СПО Арктика, Северодвинск**  
-*Инженер-программист*  
-*Ноябрь 2018 — Ноябрь 2019 (1 год 1 месяц)*  
+- **Phone:** +7 (911) 676-09-37
+- **Email:** maxlitv7711@gmail.com (preferred contact method)
 
-- Разработка нового функционала и поддержка существующего  
-- Общение с заказчиком, выяснение требований  
-- Согласование интерфейсов и алгоритмов работы модулей  
-- Поддержка и консультирование пользователей  
+## Work Experience (1 year 1 month)
 
-**Технологии:** Delphi, SQL, Python (Django)  
+**JSC SPO Arktika, Severodvinsk**
 
-## Образование  
+- Software Engineer
+  November 2018 — November 2019 (1 year 1 month)
 
-**Филиал Северного (Арктического) федерального университета им. М.В. Ломоносова, Северодвинск**  
-*Информатика и вычислительная техника*  
-Неоконченное высшее, 2021  
+- Developed new features and maintained existing functionality
+- Communicated with clients to clarify requirements
+- Coordinated module interfaces and operational algorithms
+- Provided user support and consultation
+  **Technologies:** Delphi, SQL, Python (Django)
 
-## Навыки  
-- **Frontend:** JavaScript, CSS, HTML  
-- **Инструменты:** Figma  
-- **Backend (опыт работы):** Delphi, SQL, Python (Django)  
+## Education
 
-## Владение языками  
-- **Русский** — Родной  
-- **Английский** — B1 (Средний)  
+**Severodvinsk Branch of Northern (Arctic) Federal University named after M.V. Lomonosov**
+_Computer Science and Engineering_
+Incomplete higher education, 2021
+
+## Skills
+
+- **Frontend:** JavaScript, CSS, HTML
+- **Tools:** Figma
+- **Backend (professional experience):** Delphi, SQL, Python (Django)
+
+## Languages
+
+- **Russian** — Native
+- **English** — B1 (Intermediate)
+
+## Code
+
+`javascript const func = (num) => { if (num > 0) { return num - 1; } return num + 1; }; `
